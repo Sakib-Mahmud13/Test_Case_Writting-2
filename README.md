@@ -16,7 +16,7 @@ Welcome to the manual testing documentation for **Daraz.com**, a versatile payme
 
 ## About Daraz.com
 
-**Daraz.com** is an innovative payment platform that streamlines domestic and international financial transactions, prioritizing user convenience and security. This platform serves as a one-stop solution for hassle-free money transfers and payments. As part of our commitment to excellence, we have subjected Daraz.com to rigorous manual testing to ensure its reliability and functionality.
+**Daraz.com**is a significant player in the online shopping landscape across multiple Asian countries, often drawing comparisons to Amazon due to its wide-ranging product offerings. This e-commerce giant, now under the ownership of the Chinese powerhouse Alibaba, provides a massive digital marketplace where consumers can purchase everything from electronics to fashion items and beyond. Daraz's impact has been amplified through its user-friendly mobile app, which has made online shopping more accessible and convenient for a large and diverse customer base in the region.
 
 Please feel free to navigate through the sections above to gain insights into our testing process and the outcomes. Your contributions, suggestions, and feedback are highly appreciated. Together, we strive to enhance the user experience and maintain the highest standards of performance for **Daraz.com**.
 
